@@ -1,0 +1,540 @@
+-------------------
+
+Error occured on Monday, December 14, 2015 at 23:01:57.
+
+EmptyEpsilon.exe caused an Access Violation at location 726743E9 in module openal32.dll Reading from location 00000000.
+
+Loading symbols... done.
+
+Registers:
+eax=05794490 ebx=00000000 ecx=e439e58d edx=00000000 esi=00000000 edi=00000000
+eip=726743e9 esp=07f5ff48 ebp=00000000 iopl=0         nv up ei pl zr na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00010246
+
+AddrPC   Params
+
+EmptyEpsilon.exe
+ntdll.dll   	6.2.10586.20
+KERNEL32.DLL	6.2.10586.0
+KERNELBASE.dll	6.2.10586.0
+ADVAPI32.dll	6.2.10586.0
+msvcrt.dll  	7.0.10586.0
+exchndl.dll 	0.7.7.0
+sfml-audio-2.dll
+PSAPI.DLL   	6.2.10586.0
+SHELL32.DLL 	6.2.10586.11
+sfml-network-2.dll
+cfgmgr32.dll	6.2.10586.0
+WS2_32.dll  	6.2.10586.0
+sechost.dll 	6.2.10586.0
+windows.storage.dll	6.2.10586.0
+RPCRT4.dll  	6.2.10586.0
+combase.dll 	6.2.10586.0
+SspiCli.dll 	6.2.10586.0
+CRYPTBASE.dll	6.2.10586.0
+bcryptPrimitives.dll	6.2.10586.0
+shlwapi.dll 	6.2.10586.0
+GDI32.dll   	6.2.10586.0
+sfml-system-2.dll
+USER32.dll  	6.2.10586.20
+sfml-window-2.dll
+kernel.appcore.dll	6.2.10586.0
+sfml-graphics-2.dll
+shcore.dll  	6.2.10586.0
+mgwhelp.dll 	0.7.7.0
+powrprof.dll	6.2.10586.0
+libgcc_s_sjlj-1.dll
+profapi.dll 	6.2.10586.0
+libstdc++-6.dll
+openal32.dll
+WINMM.DLL   	6.2.10586.0
+OPENGL32.DLL	6.2.10586.0
+ole32.dll   	6.2.10586.0
+dbghelp.dll 	6.3.9600.17029
+libwinpthread-1.dll	1.0.0.0
+VERSION.dll 	6.2.10586.0
+WINMMBASE.dll	6.2.10586.0
+GLU32.dll   	6.2.10586.0
+DDRAW.dll   	6.2.10586.0
+IPHLPAPI.DLL	6.2.10586.0
+WSOCK32.DLL 	6.2.10586.0
+DCIMAN32.dll	6.2.10586.3
+IMM32.DLL   	6.2.10586.0
+DINPUT.DLL  	6.2.10586.0
+HID.DLL     	6.2.10586.0
+SETUPAPI.DLL	6.2.10586.0
+DEVOBJ.dll  	6.2.10586.0
+WINTRUST.dll	6.2.10586.0
+MSASN1.dll  	6.2.10586.0
+CRYPT32.dll 	6.2.10586.0
+uxtheme.dll 	6.2.10586.0
+tiptsf.dll  	6.2.10586.0
+OLEAUT32.dll	6.2.10586.0
+clbcatq.dll 	2001.12.10941.16384
+PROPSYS.dll 	7.0.10586.0
+dsound.dll  	6.2.10586.0
+MMDevApi.dll	6.2.10586.0
+AUDIOSES.DLL	6.2.10586.11
+wintypes.dll	6.2.10586.0
+MSCTF.dll   	6.2.10586.0
+uiautomationcore.dll	7.2.10586.17
+USERENV.dll 	6.2.10586.0
+sxs.dll     	6.2.10586.0
+ig7icd32.dll	10.18.10.4276
+igdusc32.dll	10.18.10.4276
+WTSAPI32.dll	6.2.10586.0
+dwmapi.dll  	6.2.10586.0
+OLEACC.dll  	7.2.10586.0
+mswsock.dll 	6.2.10586.0
+NSI.dll     	6.2.10586.0
+dhcpcsvc6.DLL	6.2.10586.0
+dhcpcsvc.DLL	6.2.10586.0
+WININET.dll 	11.0.10586.17
+iertutil.dll	11.0.10586.20
+ondemandconnroutehelper.dll	6.2.10586.0
+winhttp.dll 	6.2.10586.0
+WINNSI.DLL  	6.2.10586.0
+DNSAPI.dll  	6.2.10586.0
+urlmon.dll  	11.0.10586.17
+rasadhlp.dll	6.2.10586.0
+fwpuclnt.dll	6.2.10586.0
+bcrypt.dll  	6.2.10586.0
+
+Windows 6.2.9200
+DrMingw 0.7.7
+
+-------------------
+
+Error occured on Monday, December 14, 2015 at 23:08:16.
+
+EmptyEpsilon.exe caused an Access Violation at location 726743E9 in module openal32.dll Reading from location 00000000.
+
+Loading symbols... done.
+
+Registers:
+eax=05b6a310 ebx=00000000 ecx=40e2345e edx=726970d0 esi=00000000 edi=00000000
+eip=726743e9 esp=0809ff48 ebp=00000000 iopl=0         nv up ei pl zr na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00010246
+
+AddrPC   Params
+
+EmptyEpsilon.exe
+ntdll.dll   	6.2.10586.20
+KERNEL32.DLL	6.2.10586.0
+KERNELBASE.dll	6.2.10586.0
+apphelp.dll 	6.2.10586.0
+ADVAPI32.dll	6.2.10586.0
+msvcrt.dll  	7.0.10586.0
+sechost.dll 	6.2.10586.0
+exchndl.dll 	0.7.7.0
+RPCRT4.dll  	6.2.10586.0
+PSAPI.DLL   	6.2.10586.0
+SspiCli.dll 	6.2.10586.0
+CRYPTBASE.dll	6.2.10586.0
+SHELL32.DLL 	6.2.10586.11
+bcryptPrimitives.dll	6.2.10586.0
+cfgmgr32.dll	6.2.10586.0
+USER32.dll  	6.2.10586.20
+windows.storage.dll	6.2.10586.0
+GDI32.dll   	6.2.10586.0
+combase.dll 	6.2.10586.0
+sfml-audio-2.dll
+shlwapi.dll 	6.2.10586.0
+kernel.appcore.dll	6.2.10586.0
+sfml-graphics-2.dll
+shcore.dll  	6.2.10586.0
+sfml-network-2.dll
+WS2_32.dll  	6.2.10586.0
+powrprof.dll	6.2.10586.0
+profapi.dll 	6.2.10586.0
+sfml-system-2.dll
+sfml-window-2.dll
+mgwhelp.dll 	0.7.7.0
+IPHLPAPI.DLL	6.2.10586.0
+OPENGL32.DLL	6.2.10586.0
+WSOCK32.DLL 	6.2.10586.0
+libgcc_s_sjlj-1.dll
+libstdc++-6.dll
+openal32.dll
+ole32.dll   	6.2.10586.0
+VERSION.dll 	6.2.10586.0
+WINMM.DLL   	6.2.10586.0
+dbghelp.dll 	6.3.9600.17029
+GLU32.dll   	6.2.10586.0
+DDRAW.dll   	6.2.10586.0
+libwinpthread-1.dll	1.0.0.0
+WINMMBASE.dll	6.2.10586.0
+DCIMAN32.dll	6.2.10586.3
+IMM32.DLL   	6.2.10586.0
+DINPUT.DLL  	6.2.10586.0
+HID.DLL     	6.2.10586.0
+SETUPAPI.DLL	6.2.10586.0
+DEVOBJ.dll  	6.2.10586.0
+WINTRUST.dll	6.2.10586.0
+MSASN1.dll  	6.2.10586.0
+CRYPT32.dll 	6.2.10586.0
+uxtheme.dll 	6.2.10586.0
+tiptsf.dll  	6.2.10586.0
+OLEAUT32.dll	6.2.10586.0
+clbcatq.dll 	2001.12.10941.16384
+PROPSYS.dll 	7.0.10586.0
+dsound.dll  	6.2.10586.0
+MMDevApi.dll	6.2.10586.0
+AUDIOSES.DLL	6.2.10586.11
+wintypes.dll	6.2.10586.0
+MSCTF.dll   	6.2.10586.0
+uiautomationcore.dll	7.2.10586.17
+USERENV.dll 	6.2.10586.0
+sxs.dll     	6.2.10586.0
+ig7icd32.dll	10.18.10.4276
+igdusc32.dll	10.18.10.4276
+WTSAPI32.dll	6.2.10586.0
+dwmapi.dll  	6.2.10586.0
+OLEACC.dll  	7.2.10586.0
+mswsock.dll 	6.2.10586.0
+NSI.dll     	6.2.10586.0
+dhcpcsvc6.DLL	6.2.10586.0
+dhcpcsvc.DLL	6.2.10586.0
+Ninput.dll  	6.2.10586.0
+comctl32.DLL	6.10.10586.0
+WININET.dll 	11.0.10586.17
+iertutil.dll	11.0.10586.20
+ondemandconnroutehelper.dll	6.2.10586.0
+winhttp.dll 	6.2.10586.0
+WINNSI.DLL  	6.2.10586.0
+DNSAPI.dll  	6.2.10586.0
+urlmon.dll  	11.0.10586.17
+rasadhlp.dll	6.2.10586.0
+fwpuclnt.dll	6.2.10586.0
+bcrypt.dll  	6.2.10586.0
+
+Windows 6.2.9200
+DrMingw 0.7.7
+
+-------------------
+
+Error occured on Monday, December 14, 2015 at 23:14:28.
+
+EmptyEpsilon.exe caused an Access Violation at location 6E75A4BC in module MMDevApi.dll Reading from location 00000004.
+
+Loading symbols... done.
+
+Registers:
+eax=0800ff14 ebx=00000000 ecx=00000004 edx=0800ff1c esi=00000004 edi=00000000
+eip=6e75a4bc esp=0800fed0 ebp=0800fee4 iopl=0         nv up ei pl nz na pe nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00010202
+
+AddrPC   Params
+6E75A4BC 0800FF14 0800FF20 0800FF10  MMDevApi.dll!CDeviceEnumerator::ParseDeviceId
+6E75B9E1 0582C360 00000004 0C067588  MMDevApi.dll!CDeviceEnumerator::GetDevice
+72674409 0582C360 770738D0 C63CA280  openal32.dll!alcCloseDevice
+770738F4 0800FFDC 771B56C3 0575F43C  KERNEL32.DLL!@BaseThreadInitThunk@12
+C63CA280 0575F43C 14443AA2 00000000
+771B56C3 FFFFFFFF 771DB6EA 00000000  ntdll.dll!__RtlUserThreadStart
+771B568E 72674220 0575F43C 00000000  ntdll.dll!__RtlUserThreadStart@8
+
+EmptyEpsilon.exe
+ntdll.dll   	6.2.10586.20
+KERNEL32.DLL	6.2.10586.0
+KERNELBASE.dll	6.2.10586.0
+ADVAPI32.dll	6.2.10586.0
+msvcrt.dll  	7.0.10586.0
+exchndl.dll 	0.7.7.0
+sechost.dll 	6.2.10586.0
+sfml-audio-2.dll
+RPCRT4.dll  	6.2.10586.0
+PSAPI.DLL   	6.2.10586.0
+SHELL32.DLL 	6.2.10586.11
+cfgmgr32.dll	6.2.10586.0
+windows.storage.dll	6.2.10586.0
+combase.dll 	6.2.10586.0
+bcryptPrimitives.dll	6.2.10586.0
+shlwapi.dll 	6.2.10586.0
+GDI32.dll   	6.2.10586.0
+USER32.dll  	6.2.10586.20
+sfml-graphics-2.dll
+kernel.appcore.dll	6.2.10586.0
+shcore.dll  	6.2.10586.0
+SspiCli.dll 	6.2.10586.0
+powrprof.dll	6.2.10586.0
+CRYPTBASE.dll	6.2.10586.0
+profapi.dll 	6.2.10586.0
+sfml-system-2.dll
+sfml-window-2.dll
+mgwhelp.dll 	0.7.7.0
+libgcc_s_sjlj-1.dll
+libstdc++-6.dll
+openal32.dll
+ole32.dll   	6.2.10586.0
+sfml-network-2.dll
+VERSION.dll 	6.2.10586.0
+WS2_32.dll  	6.2.10586.0
+IPHLPAPI.DLL	6.2.10586.0
+OPENGL32.DLL	6.2.10586.0
+WSOCK32.DLL 	6.2.10586.0
+WINMM.DLL   	6.2.10586.0
+dbghelp.dll 	6.3.9600.17029
+libwinpthread-1.dll	1.0.0.0
+GLU32.dll   	6.2.10586.0
+DDRAW.dll   	6.2.10586.0
+WINMMBASE.dll	6.2.10586.0
+DCIMAN32.dll	6.2.10586.3
+IMM32.DLL   	6.2.10586.0
+DINPUT.DLL  	6.2.10586.0
+HID.DLL     	6.2.10586.0
+SETUPAPI.DLL	6.2.10586.0
+DEVOBJ.dll  	6.2.10586.0
+WINTRUST.dll	6.2.10586.0
+MSASN1.dll  	6.2.10586.0
+CRYPT32.dll 	6.2.10586.0
+uxtheme.dll 	6.2.10586.0
+tiptsf.dll  	6.2.10586.0
+OLEAUT32.dll	6.2.10586.0
+clbcatq.dll 	2001.12.10941.16384
+PROPSYS.dll 	7.0.10586.0
+dsound.dll  	6.2.10586.0
+MMDevApi.dll	6.2.10586.0
+AUDIOSES.DLL	6.2.10586.11
+wintypes.dll	6.2.10586.0
+MSCTF.dll   	6.2.10586.0
+uiautomationcore.dll	7.2.10586.17
+USERENV.dll 	6.2.10586.0
+sxs.dll     	6.2.10586.0
+ig7icd32.dll	10.18.10.4276
+igdusc32.dll	10.18.10.4276
+dwmapi.dll  	6.2.10586.0
+WTSAPI32.dll	6.2.10586.0
+OLEACC.dll  	7.2.10586.0
+mswsock.dll 	6.2.10586.0
+NSI.dll     	6.2.10586.0
+dhcpcsvc6.DLL	6.2.10586.0
+dhcpcsvc.DLL	6.2.10586.0
+Ninput.dll  	6.2.10586.0
+comctl32.DLL	6.10.10586.0
+WININET.dll 	11.0.10586.17
+iertutil.dll	11.0.10586.20
+ondemandconnroutehelper.dll	6.2.10586.0
+winhttp.dll 	6.2.10586.0
+WINNSI.DLL  	6.2.10586.0
+DNSAPI.dll  	6.2.10586.0
+urlmon.dll  	11.0.10586.17
+rasadhlp.dll	6.2.10586.0
+fwpuclnt.dll	6.2.10586.0
+bcrypt.dll  	6.2.10586.0
+Cabinet.dll 	6.2.10586.0
+
+Windows 6.2.9200
+DrMingw 0.7.7
+
+-------------------
+
+Error occured on Monday, December 14, 2015 at 23:20:37.
+
+EmptyEpsilon.exe caused an Access Violation at location 726743E9 in module openal32.dll Reading from location 00000000.
+
+Loading symbols... done.
+
+Registers:
+eax=0597eda0 ebx=00000000 ecx=c5fb2d45 edx=00000000 esi=00000000 edi=00000000
+eip=726743e9 esp=0805ff48 ebp=00000000 iopl=0         nv up ei pl zr na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00010246
+
+AddrPC   Params
+
+EmptyEpsilon.exe
+ntdll.dll   	6.2.10586.20
+KERNEL32.DLL	6.2.10586.0
+KERNELBASE.dll	6.2.10586.0
+ADVAPI32.dll	6.2.10586.0
+msvcrt.dll  	7.0.10586.0
+exchndl.dll 	0.7.7.0
+sechost.dll 	6.2.10586.0
+RPCRT4.dll  	6.2.10586.0
+PSAPI.DLL   	6.2.10586.0
+sfml-audio-2.dll
+SHELL32.DLL 	6.2.10586.11
+cfgmgr32.dll	6.2.10586.0
+windows.storage.dll	6.2.10586.0
+combase.dll 	6.2.10586.0
+bcryptPrimitives.dll	6.2.10586.0
+shlwapi.dll 	6.2.10586.0
+GDI32.dll   	6.2.10586.0
+SspiCli.dll 	6.2.10586.0
+USER32.dll  	6.2.10586.20
+CRYPTBASE.dll	6.2.10586.0
+kernel.appcore.dll	6.2.10586.0
+shcore.dll  	6.2.10586.0
+powrprof.dll	6.2.10586.0
+profapi.dll 	6.2.10586.0
+sfml-graphics-2.dll
+sfml-network-2.dll
+sfml-system-2.dll
+sfml-window-2.dll
+WS2_32.dll  	6.2.10586.0
+mgwhelp.dll 	0.7.7.0
+VERSION.dll 	6.2.10586.0
+IPHLPAPI.DLL	6.2.10586.0
+libgcc_s_sjlj-1.dll
+OPENGL32.DLL	6.2.10586.0
+libstdc++-6.dll
+WSOCK32.DLL 	6.2.10586.0
+WINMM.DLL   	6.2.10586.0
+dbghelp.dll 	6.3.9600.17029
+libwinpthread-1.dll	1.0.0.0
+GLU32.dll   	6.2.10586.0
+DDRAW.dll   	6.2.10586.0
+WINMMBASE.dll	6.2.10586.0
+openal32.dll
+DCIMAN32.dll	6.2.10586.3
+ole32.dll   	6.2.10586.0
+IMM32.DLL   	6.2.10586.0
+DINPUT.DLL  	6.2.10586.0
+HID.DLL     	6.2.10586.0
+SETUPAPI.DLL	6.2.10586.0
+DEVOBJ.dll  	6.2.10586.0
+WINTRUST.dll	6.2.10586.0
+MSASN1.dll  	6.2.10586.0
+CRYPT32.dll 	6.2.10586.0
+uxtheme.dll 	6.2.10586.0
+tiptsf.dll  	6.2.10586.0
+OLEAUT32.dll	6.2.10586.0
+clbcatq.dll 	2001.12.10941.16384
+PROPSYS.dll 	7.0.10586.0
+dsound.dll  	6.2.10586.0
+MMDevApi.dll	6.2.10586.0
+AUDIOSES.DLL	6.2.10586.11
+wintypes.dll	6.2.10586.0
+MSCTF.dll   	6.2.10586.0
+uiautomationcore.dll	7.2.10586.17
+USERENV.dll 	6.2.10586.0
+sxs.dll     	6.2.10586.0
+ig7icd32.dll	10.18.10.4276
+igdusc32.dll	10.18.10.4276
+WTSAPI32.dll	6.2.10586.0
+dwmapi.dll  	6.2.10586.0
+OLEACC.dll  	7.2.10586.0
+mswsock.dll 	6.2.10586.0
+NSI.dll     	6.2.10586.0
+dhcpcsvc6.DLL	6.2.10586.0
+dhcpcsvc.DLL	6.2.10586.0
+WININET.dll 	11.0.10586.17
+iertutil.dll	11.0.10586.20
+ondemandconnroutehelper.dll	6.2.10586.0
+winhttp.dll 	6.2.10586.0
+WINNSI.DLL  	6.2.10586.0
+DNSAPI.dll  	6.2.10586.0
+urlmon.dll  	11.0.10586.17
+rasadhlp.dll	6.2.10586.0
+fwpuclnt.dll	6.2.10586.0
+bcrypt.dll  	6.2.10586.0
+
+Windows 6.2.9200
+DrMingw 0.7.7
+
+-------------------
+
+Error occured on Monday, December 14, 2015 at 23:26:42.
+
+EmptyEpsilon.exe caused an Access Violation at location 726743E9 in module openal32.dll Reading from location 00000000.
+
+Loading symbols... done.
+
+Registers:
+eax=05872310 ebx=00000000 ecx=4c5fdd87 edx=00000000 esi=00000000 edi=00000000
+eip=726743e9 esp=07f1ff48 ebp=00000000 iopl=0         nv up ei pl zr na po nc
+cs=0023  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00010246
+
+AddrPC   Params
+
+EmptyEpsilon.exe
+ntdll.dll   	6.2.10586.20
+KERNEL32.DLL	6.2.10586.0
+KERNELBASE.dll	6.2.10586.0
+ADVAPI32.dll	6.2.10586.0
+msvcrt.dll  	7.0.10586.0
+exchndl.dll 	0.7.7.0
+sfml-audio-2.dll
+sechost.dll 	6.2.10586.0
+RPCRT4.dll  	6.2.10586.0
+SspiCli.dll 	6.2.10586.0
+CRYPTBASE.dll	6.2.10586.0
+bcryptPrimitives.dll	6.2.10586.0
+USER32.dll  	6.2.10586.20
+GDI32.dll   	6.2.10586.0
+sfml-graphics-2.dll
+PSAPI.DLL   	6.2.10586.0
+sfml-system-2.dll
+SHELL32.DLL 	6.2.10586.11
+cfgmgr32.dll	6.2.10586.0
+sfml-window-2.dll
+windows.storage.dll	6.2.10586.0
+sfml-network-2.dll
+combase.dll 	6.2.10586.0
+WS2_32.dll  	6.2.10586.0
+shlwapi.dll 	6.2.10586.0
+kernel.appcore.dll	6.2.10586.0
+shcore.dll  	6.2.10586.0
+IPHLPAPI.DLL	6.2.10586.0
+powrprof.dll	6.2.10586.0
+profapi.dll 	6.2.10586.0
+OPENGL32.DLL	6.2.10586.0
+libgcc_s_sjlj-1.dll
+libstdc++-6.dll
+WSOCK32.DLL 	6.2.10586.0
+openal32.dll
+mgwhelp.dll 	0.7.7.0
+WINMM.DLL   	6.2.10586.0
+VERSION.dll 	6.2.10586.0
+libwinpthread-1.dll	1.0.0.0
+GLU32.dll   	6.2.10586.0
+DDRAW.dll   	6.2.10586.0
+dbghelp.dll 	6.3.9600.17029
+WINMMBASE.dll	6.2.10586.0
+ole32.dll   	6.2.10586.0
+DCIMAN32.dll	6.2.10586.3
+IMM32.DLL   	6.2.10586.0
+DINPUT.DLL  	6.2.10586.0
+HID.DLL     	6.2.10586.0
+SETUPAPI.DLL	6.2.10586.0
+DEVOBJ.dll  	6.2.10586.0
+WINTRUST.dll	6.2.10586.0
+MSASN1.dll  	6.2.10586.0
+CRYPT32.dll 	6.2.10586.0
+uxtheme.dll 	6.2.10586.0
+tiptsf.dll  	6.2.10586.0
+OLEAUT32.dll	6.2.10586.0
+clbcatq.dll 	2001.12.10941.16384
+PROPSYS.dll 	7.0.10586.0
+dsound.dll  	6.2.10586.0
+MMDevApi.dll	6.2.10586.0
+AUDIOSES.DLL	6.2.10586.11
+wintypes.dll	6.2.10586.0
+MSCTF.dll   	6.2.10586.0
+uiautomationcore.dll	7.2.10586.17
+USERENV.dll 	6.2.10586.0
+sxs.dll     	6.2.10586.0
+ig7icd32.dll	10.18.10.4276
+igdusc32.dll	10.18.10.4276
+dwmapi.dll  	6.2.10586.0
+WTSAPI32.dll	6.2.10586.0
+OLEACC.dll  	7.2.10586.0
+mswsock.dll 	6.2.10586.0
+NSI.dll     	6.2.10586.0
+dhcpcsvc6.DLL	6.2.10586.0
+dhcpcsvc.DLL	6.2.10586.0
+Ninput.dll  	6.2.10586.0
+comctl32.DLL	6.10.10586.0
+WININET.dll 	11.0.10586.17
+iertutil.dll	11.0.10586.20
+ondemandconnroutehelper.dll	6.2.10586.0
+winhttp.dll 	6.2.10586.0
+WINNSI.DLL  	6.2.10586.0
+DNSAPI.dll  	6.2.10586.0
+urlmon.dll  	11.0.10586.17
+rasadhlp.dll	6.2.10586.0
+fwpuclnt.dll	6.2.10586.0
+bcrypt.dll  	6.2.10586.0
+
+Windows 6.2.9200
+DrMingw 0.7.7
+
